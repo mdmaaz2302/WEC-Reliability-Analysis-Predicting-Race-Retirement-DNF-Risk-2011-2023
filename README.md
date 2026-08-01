@@ -1,0 +1,2 @@
+# WEC-Reliability-Analysis-Predicting-Race-Retirement-DNF-Risk-2011-2023
+Predicting race retirement (DNF) vs. classified finish across 12 seasons of WEC data (2011–2023) using Random Forest. Includes PACE-framework notebook, SQL summarization layer, bias-corrected feature importance analysis, and BI-ready exports. Cross-validated ROC-AUC 0.73 ± 0.03, with honest discussion of limitations and model transferability.
